@@ -1,0 +1,6 @@
+C:\Users\KaMiKaZa\Desktop\Labs\Криптография\Lab04\Lab04\bin\Release\Lab04.exe.config
+C:\Users\KaMiKaZa\Desktop\Labs\Криптография\Lab04\Lab04\bin\Release\Lab04.exe
+C:\Users\KaMiKaZa\Desktop\Labs\Криптография\Lab04\Lab04\bin\Release\Lab04.pdb
+C:\Users\KaMiKaZa\Desktop\Labs\Криптография\Lab04\Lab04\obj\Release\Lab04.exe
+C:\Users\KaMiKaZa\Desktop\Labs\Криптография\Lab04\Lab04\obj\Release\Lab04.pdb
+C:\Users\KaMiKaZa\Desktop\Labs\Криптография\Lab04\Lab04\obj\Release\Lab04.csprojResolveAssemblyReference.cache

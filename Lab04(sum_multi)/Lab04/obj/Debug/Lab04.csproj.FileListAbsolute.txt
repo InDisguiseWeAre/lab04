@@ -1,0 +1,15 @@
+C:\Users\KaMiKaZa\Desktop\Labs\Криптография\Lab04\Lab04\bin\Debug\Lab04.exe.config
+C:\Users\KaMiKaZa\Desktop\Labs\Криптография\Lab04\Lab04\bin\Debug\Lab04.exe
+C:\Users\KaMiKaZa\Desktop\Labs\Криптография\Lab04\Lab04\bin\Debug\Lab04.pdb
+C:\Users\KaMiKaZa\Desktop\Labs\Криптография\Lab04\Lab04\obj\Debug\Lab04.csprojResolveAssemblyReference.cache
+C:\Users\KaMiKaZa\Desktop\Labs\Криптография\Lab04\Lab04\obj\Debug\Lab04.exe
+C:\Users\KaMiKaZa\Desktop\Labs\Криптография\Lab04\Lab04\obj\Debug\Lab04.pdb
+C:\Users\work\Downloads\Crypt_Labs_form_1_to_9.zip\Lab04\Lab04\bin\Debug\Lab04.exe.config
+C:\Users\work\Downloads\Crypt_Labs_form_1_to_9.zip\Lab04\Lab04\bin\Debug\Lab04.exe
+C:\Users\work\Downloads\Crypt_Labs_form_1_to_9.zip\Lab04\Lab04\bin\Debug\Lab04.pdb
+C:\Users\work\Downloads\Crypt_Labs_form_1_to_9.zip\Lab04\Lab04\obj\Debug\Lab04.csprojResolveAssemblyReference.cache
+C:\Users\work\Downloads\Crypt_Labs_form_1_to_9.zip\Lab04\Lab04\obj\Debug\Lab04.exe
+C:\Users\work\Downloads\Crypt_Labs_form_1_to_9.zip\Lab04\Lab04\obj\Debug\Lab04.pdb
+C:\Users\work\Documents\GitHub\lab04\Lab04(sum_multi)\Lab04\obj\Debug\Lab04.csprojResolveAssemblyReference.cache
+C:\Users\work\Documents\GitHub\lab04\Lab04(sum_multi)\Lab04\obj\Debug\Lab04.exe
+C:\Users\work\Documents\GitHub\lab04\Lab04(sum_multi)\Lab04\obj\Debug\Lab04.pdb
